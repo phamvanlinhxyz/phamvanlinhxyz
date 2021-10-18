@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanlinhxyz&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=phamvanlinhxyz" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </p>
 <!---
 phamvanlinhxyz/phamvanlinhxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
