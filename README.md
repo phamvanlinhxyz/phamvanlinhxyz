@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in technology, life, and everything
 - 🌱 I’m currently learning <b>C, C++, Java, HTML, CSS, Javascript, Node & Express JS,...</b>
-- 📝 I regulary write articles on https://www.phamvanlinh.xyz
+- 📝 I regulary write articles on <a href="https://www.phamvanlinh.xyz" target="_blank">Văn Linh Blog</a>
 - 📫 How to reach me <a href="mailto:https://linh.pv194094@sis.hust.edu.vn" target="_blank" title="Email">linh.pv194094@sis.hust.edu.vn</a>
 
 <h3>Languages and Tools:</h3>
