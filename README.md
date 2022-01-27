@@ -11,7 +11,8 @@
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanlinhxyz&show_icons=true&theme=tokyonight" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanlinhxyz&layout=compact&theme=tokyonight" /></td>
+    <td><img align="center" src"https://github-readme-streak-stats.herokuapp.com/?user=phamvanlinhxyz&theme=tokyonight"/></td>
+    <!--<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanlinhxyz&layout=compact&theme=tokyonight" /></td>-->
   </tr>
 </table>
 
