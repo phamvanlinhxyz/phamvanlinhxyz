@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I’m @phamvanlinhxyz </h2>
 <h3>About me:</h3>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=phamvanlinhxyz&theme=tokyonight&margin-w=15" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=phamvanlinhxyz&theme=vue&margin-w=15" />
 </p>
 
 - 👀 I’m interested in technology, life, and everything
@@ -11,8 +11,8 @@
 
 <h3>Languages and Tools:</h3>
 <p align="center">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanlinhxyz&show_icons=true&theme=tokyonight" />
-  <img width="48%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=phamvanlinhxyz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanlinhxyz&show_icons=true&theme=vue" />
+  <img width="48%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=phamvanlinhxyz&theme=vue&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <!---
