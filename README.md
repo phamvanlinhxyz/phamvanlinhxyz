@@ -20,7 +20,7 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=phamvanlinhxyz&theme=github-light" alt="phamvanlinhxyz" /></td>
+        <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=phamvanlinhxyz&theme=github-light&area=true&area_color=3bd354" alt="phamvanlinhxyz" /></td>
     </tr>
 </table>
 
