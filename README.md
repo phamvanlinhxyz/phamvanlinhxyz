@@ -13,8 +13,7 @@
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanlinhxyz&layout=compact&theme=tokyonight" /></td>
   </tr>
   <tr>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight" />
-    
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=phamvanlinhxyz&theme=tokyonight" />
   </tr>
 </table>
 
