@@ -12,6 +12,10 @@
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanlinhxyz&show_icons=true&theme=tokyonight" /></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanlinhxyz&layout=compact&theme=tokyonight" /></td>
   </tr>
+  <tr>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight" />
+    
+  </tr>
 </table>
 
 <!---
