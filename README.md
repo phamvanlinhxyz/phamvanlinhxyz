@@ -108,8 +108,7 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanlinhxyz&show_icons=true&title_color=3bd354&icon_color=3bd354" />
         </td>
         <td>
-            <img align="center" src="http://gi
-                                     thub-readme-streak-stats.herokuapp.com?user=phamvanlinhxyz&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=phamvanlinhxyz&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" />
         </td>
     </tr>
     <tr>
