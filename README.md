@@ -70,8 +70,8 @@
   </a> 
 </p>
 
-<!-- Frontend Development -->
-<h4 align="left">Frontend Development:</h4>
+<!-- Database -->
+<h4 align="left">Database:</h4>
 <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
