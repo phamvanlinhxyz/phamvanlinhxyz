@@ -12,7 +12,7 @@
 <!-- Connect -->
 <h4 align="left">Connect with me:</h4>
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
+  <a href="https://www.phamvanlinh.xyz/" target="blank">
     <img src="https://imgur.com/VsCxZ19.png" />
   </a>
   <a href="https://fb.com/hnilnavmahp.ku" target="blank">
