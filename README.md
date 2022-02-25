@@ -11,13 +11,26 @@
 
 <!-- Connect -->
 <h4 align="left">Connect with me:</h4>
-<p align="left">
-  <a href="https://fb.com/hnilnavmahp.ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hnilnavmahp.ku" height="30" width="40" /></a>
-  <a href="https://instagram.com/kulih_latoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulih_latoi" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC-Z59yzV_qBjX0KbsweFiTQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-z59yzv_qbjx0kbswefitq" height="30" width="40" /></a>
-  <a href="https://twitter.com/linh1151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linh1151" height="30" width="40" /></a>
-  <a href="https://codepen.io/phamvanlinh1151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="phamvanlinh1151" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://trungquandev.com" target="blank">
+    <img src="https://imgur.com/VsCxZ19.png" />
+  </a>
+  <a href="https://fb.com/hnilnavmahp.ku" target="blank">
+    <img src="https://imgur.com/ehbjVmk.png"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC-Z59yzV_qBjX0KbsweFiTQ" target="blank">
+    <img src="https://imgur.com/POB6Gvg.png"/>
+  </a>
+  <a href="https://instagram.com/vanlinh.11" target="blank">
+   <img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v1.png"/>
+  </a>
+  <a href="mailto:phamvanlinh1151@gmail.com" target="top">
+    <img src="https://imgur.com/g7hjSy6.png"/>
+  </a>
+  <a href="https://twitter.com/Linh1151" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/>
+  </a>
+</div>
 
 <!-- Programming Languages -->
 <h4 align="left">Programming Languages:</h4>
