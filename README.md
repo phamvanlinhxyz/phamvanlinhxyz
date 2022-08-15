@@ -27,9 +27,6 @@
   <a href="mailto:phamvanlinh1151@gmail.com" target="top">
     <img src="https://imgur.com/g7hjSy6.png"/>
   </a>
-  <a href="https://twitter.com/Linh1151" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/>
-  </a>
 </div>
 
 <h4>Statistics:</h4>
